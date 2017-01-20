@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rappi-Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">Estamos preparando su experiencia.</string>
+    <string name="data_url">https://www.reddit.com/reddits.json</string>
+    <string name="title_activity_theme_list">ThemeListActivity</string>
+    <string name="title_activity_detail_theme_layout">detailThemeLayout</string>
+</resources>
