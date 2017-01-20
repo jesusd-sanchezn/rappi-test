@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Rappi-Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Rappi-Test\app\build\intermediates\pre-dexed\debug\classes-a8e5f0843b9f760787f1ef6026591e643b836a46.jar" />
+    </item>
+    <item
+        jar="C:\Users\tomas castillo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Rappi-Test\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-3b7e67c27ec14c27378fdb4cc472bf295f66fca5.jar" />
+    </item>
+    <item
+        jar="C:\Users\tomas castillo\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\5.0\3382b8260646dd334a1b9c1b3d412fcb73d8b21\ormlite-core-5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="C:\Rappi-Test\app\build\intermediates\pre-dexed\debug\ormlite-core-5.0-27e45fcf270b267a30c066df53f98a3f10bd86b6.jar" />
+    </item>
+    <item
+        jar="C:\Rappi-Test\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Rappi-Test\app\build\intermediates\pre-dexed\debug\classes-985ae4ac33dfd8ae2b878a44eecbcc138727d67c.jar" />
+    </item>
+    <item
+        jar="C:\Rappi-Test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Rappi-Test\app\build\intermediates\pre-dexed\debug\classes-daf25bed95f3ab06733d9c2b3a9538f4eae98737.jar" />
+    </item>
+    <item
+        jar="C:\Rappi-Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Rappi-Test\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2e5211dbd0da1734403d56019d7ba8b145407773.jar" />
+    </item>
+    <item
+        jar="C:\Users\tomas castillo\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\5.0\1f065373aeef355dd9e2fd9854efd5ed4d54f6d\ormlite-android-5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="C:\Rappi-Test\app\build\intermediates\pre-dexed\debug\ormlite-android-5.0-f6051543a04af68bdbbe7f6ff9cc509cf122029d.jar" />
+    </item>
+
+</items>
